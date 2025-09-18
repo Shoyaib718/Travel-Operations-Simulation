@@ -1,6 +1,6 @@
 # Travel-Operations-Simulation
 Simulation project reflecting Canonical Travel Operations
-# Canonical Travel Operations Simulation  
+#Travel Operations Simulation  
 
 A simulation project designed to reflect the role of a **Travel Operations Specialist**. This tool helps manage multi-country company trips, vendor performance, budgets, unused tickets, and compliance with travel policy.  
 
